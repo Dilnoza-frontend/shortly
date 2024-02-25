@@ -420,6 +420,7 @@ select:-webkit-autofill:focus {
   font-size: 40px;
   line-height: 48px;
   color: var(--text-color-dark);
+  text-transform: capitalize;
 }
 
 .index-features__top-info {
@@ -465,6 +466,7 @@ select:-webkit-autofill:focus {
   margin-top: 88px;
 }
 
+/* Index-feature */
 .index-feature {
   position: relative;
   padding: 77px 32px 40px;
@@ -491,6 +493,7 @@ select:-webkit-autofill:focus {
   font-size: 22px;
   line-height: normal;
   color: var(--text-color-dark);
+  text-transform: capitalize;
 }
 
 .index-feature__info {
